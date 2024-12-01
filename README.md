@@ -13,3 +13,6 @@
 #### 3. Scripts Used
 
 [Scripts Used](<20241123 - Chapter 1 - AI Python for Beginners/02 AI Python for Beginners.txt>)
+
+#### 4. YouTube Video 
+[YouTube - Chapter 1](https://www.youtube.com/watch?v=U51AWdt-7Tk)
