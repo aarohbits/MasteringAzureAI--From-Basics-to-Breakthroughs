@@ -1,0 +1,17 @@
+Demo 1: 
+After Python installation 
+Check Python version 
+
+CMD>> python --version
+
+
+Python Virtual Environment
+
+	Command Prompt
+		python -m venv myenv 
+		
+		myenv\Scripts\activate (backslash) 
+		
+		pip install  numpy 
+		
+		pip install openai
